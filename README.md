@@ -59,64 +59,7 @@ Over the years I've worked on projects ranging from intelligent web platforms an
 
 ---
 
-## 💼 Featured Projects
 
-### 🎫 AI-Powered Ticket Management System
-
-A smart ticketing platform with role-based authentication, AI-assisted workflows, secure REST APIs, and real-time communication.
-
-**Tech Stack:** Spring Boot • Spring Security • JWT • MySQL • WebSocket
-
----
-
-### 📚 Adaptive Learning Platform
-
-A modern learning platform featuring intelligent agents, secure authentication, and personalized learning experiences.
-
-**Tech Stack:** React • Node.js • MySQL
-
----
-
-### 🤖 AI Test Generation Platform
-
-A research-oriented platform focused on automated software testing using Retrieval-Augmented Generation (RAG), Abstract Syntax Trees (AST), and Large Language Models.
-
-**Tech Stack:** Python • FastAPI • React • AI
-
----
-
-## 🌱 Areas of Interest
-
-- Artificial Intelligence
-- Backend Engineering
-- Software Architecture
-- Distributed Systems
-- Cloud Computing
-- Clean Architecture
-- API Design
-- Developer Tools
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Soufiane-2005&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=Soufiane-2005&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-2005&layout=compact&hide_border=true"/>
-
-</div>
-
----
 
 ## 🤝 Connect with Me
 
