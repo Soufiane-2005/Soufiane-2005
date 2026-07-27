@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=1565C0&center=true&vCenter=true&width=700&lines=Soufiane+SBAA;Software+Engineering+Student+%40+INPT;🇲🇦+Rabat%2C+Morocco;Backend+%7C+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Passionate+about+AI+and+Scalable+Systems" alt="Typing SVG" />
 </a>
 
+
+
 </div>
 
 <br>
