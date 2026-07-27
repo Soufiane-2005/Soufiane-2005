@@ -1,62 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1565C0&height=200&section=header&text=Soufiane%20SBAA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1565C0&height=200&section=header&text=Soufiane%20SBAA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering" width="100%"/>
 
 <a href="https://github.com/Soufiane-2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=1565C0&center=true&vCenter=true&width=750&lines=Soufiane+SBAA;+Software+Engineering+Student;INPT+-+Rabat%2C+Morocco;Building+Reliable+Backend+Systems;Spring+Boot+%E2%80%A2+React+%E2%80%A2+Node.js;Exploring+AI%2C+RAG+and+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=1565C0&center=true&vCenter=true&width=750&lines=Soufiane+SBAA;Backend+%7C+Full-Stack+Developer;Building+Reliable+Software;Spring+Boot+%7C+React+%7C+Node.js;Exploring+AI,+Cloud+and+Software+Architecture" alt="Typing SVG" />
 </a>
 
-
 </div>
 
-<br>
+---
 
-I'm an engineering student currently building an AI-driven RAG architecture that reads Python source code and generates meaningful test suites from it — not just green checkmarks. Most of my time lately goes into static analysis (AST parsing), backend APIs, and figuring out how to make an LLM reason properly about code it's never seen before.
+# 👋 Hello, I'm Soufiane
 
-I like tools that disappear into the background and just work. Outside of that: distributed systems rabbit holes, clean architecture, and way too many browser tabs.
+I'm passionate about building reliable software and solving real-world engineering problems.
 
-<br>
+My primary interests are **backend development**, **software architecture**, **artificial intelligence**, and **distributed systems**. I enjoy designing scalable applications, building secure APIs, and creating software that is clean, maintainable, and built to last.
 
-## 🧰 Tech Stack
+Over the years I've worked on projects ranging from intelligent web platforms and RESTful APIs to AI-powered applications and developer tools. I'm always exploring new technologies while strengthening my fundamentals in software engineering.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Building AI-powered software and intelligent systems
+- ⚙️ Developing scalable backend applications
+- 🌐 Creating modern full-stack web applications
+- 🧠 Exploring software architecture and distributed systems
+- ☁️ Learning cloud technologies and DevOps practices
+- 📚 Continuously improving as a software engineer
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=python,fastapi,react,js,ts,java,cpp,docker,git,github,postgres,mongodb,linux,vscode)
+### Languages
+
+![](https://skillicons.dev/icons?i=python,java,javascript,c,cpp)
+
+### Frontend
+
+![](https://skillicons.dev/icons?i=react,html,css,vite)
+
+### Backend
+
+![](https://skillicons.dev/icons?i=spring,nodejs,express,fastapi)
+
+### Databases
+
+![](https://skillicons.dev/icons?i=mysql)
+
+### DevOps & Tools
+
+![](https://skillicons.dev/icons?i=docker,git,github,linux,vscode)
 
 </div>
 
-<br>
+---
 
-## 🔭 Right now
+## 💼 Featured Projects
 
-- 🧠 Building a **RAG pipeline** that turns AST analysis into targeted, LLM-generated unit tests
-- 🛠️ Shipping a small **AST analyzer service** (FastAPI + React) — [check it out](https://github.com/Soufiane-2005/ast-analyzer)
-- 📈 Comparing prompt-engineering strategies for AI test generation, measuring actual coverage impact
-- 🌱 Always picking up something new along the way
+### 🎫 AI-Powered Ticket Management System
 
-<br>
+A smart ticketing platform with role-based authentication, AI-assisted workflows, secure REST APIs, and real-time communication.
 
-## 📊 Stats
+**Tech Stack:** Spring Boot • Spring Security • JWT • MySQL • WebSocket
+
+---
+
+### 📚 Adaptive Learning Platform
+
+A modern learning platform featuring intelligent agents, secure authentication, and personalized learning experiences.
+
+**Tech Stack:** React • Node.js • MySQL
+
+---
+
+### 🤖 AI Test Generation Platform
+
+A research-oriented platform focused on automated software testing using Retrieval-Augmented Generation (RAG), Abstract Syntax Trees (AST), and Large Language Models.
+
+**Tech Stack:** Python • FastAPI • React • AI
+
+---
+
+## 🌱 Areas of Interest
+
+- Artificial Intelligence
+- Backend Engineering
+- Software Architecture
+- Distributed Systems
+- Cloud Computing
+- Clean Architecture
+- API Design
+- Developer Tools
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Soufiane-2005&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Soufiane-2005&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Soufiane-2005&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=Soufiane-2005&hide_border=true"/>
 
 </div>
 
 <br>
 
-## 📫 Reach me
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[soufianesbaa2005@gmail.com])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-sbaa-35246634a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soufiane-2005)
-
-![Profile views](https://komarev.com/ghpvc/?username=Soufiane-2005&color=1565C0&style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-2005&layout=compact&hide_border=true"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:2E7D32&height=100&section=footer" width="100%"/>
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="mailto:soufianesbaa2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/soufiane-sbaa-35246634a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Soufiane-2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Soufiane-2005&style=for-the-badge&color=1565C0"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+> *"Great software is built through curiosity, continuous learning, and attention to detail."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:2E7D32&height=120&section=footer"/>
