@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1565C0&height=200&section=header&text=Soufiane%20SBAA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer" width="100%"/>
 
 <a href="https://github.com/Soufiane-2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1565C0&center=true&vCenter=true&width=560&lines=Parsing+Python+ASTs+for+fun;Wiring+FastAPI+%2B+React+together;Teaching+LLMs+to+write+better+tests;Currently%3A+deep+in+a+RAG+pipeline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=1565C0&center=true&vCenter=true&width=700&lines=Soufiane+SBAA;Software+Engineering+Student+%40+INPT;🇲🇦+Rabat%2C+Morocco;Backend+%7C+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Passionate+about+AI+and+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 </div>
